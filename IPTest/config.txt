@@ -1,1 +1,1 @@
-vless://03f95805-645c-4e1c-9f0d-940e60e509bb@188.114.97.3:443?encryption=none&security=tls&sni=fragment.leon4rdo78.WOrKerS.DeV&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios&type=ws&host=fragment.leon4rdo78.WOrKerS.DeV&path=%2Ftelegram-falcunargo-finlands.falcunar.asso.eu.org%3A443%2F#9-VA%20x%20LcWd
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.114.98.224:443?encryption=none&security=tls&sni=fragment.leon4rdo78.wOrkers.dEv&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=fragment.leon4rdo78.wOrkers.dEv&path=%2Fcfed.tgzdyz2.top%3A443%2FTG%40ZDYZ2#361-VA%20x%20LcWd
